@@ -38,4 +38,4 @@ This map pinpoints the top five Los Angeles areas with the highest crime rates, 
 To visualize the top five areas with the highest crime rates, the dataset was filtered to focus on these specific "Area Name" entries. The average longitude and latitude for each of these areas were then used to position them geographically on a map. To clearly differentiate these areas by crime volume, the "Count" of crimes was applied to the color, using a gradient where darker shades of red indicate a higher number of reported crimes. The "Area Name" was added as a label for each point on the map. This visualization effectively displays the geographic locations of the top five high-crime areas and visually communicates the relative number of crimes in each through color intensity.
 
 ## Tableau Packaged Workbook
-Link: 
+[Download the Tableau Workbook](MIST4610-Project2-Group1.twbx)
